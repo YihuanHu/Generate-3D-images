@@ -17,7 +17,7 @@ Ref: https://colab.research.google.com/github/dvschultz/ml-art-colabs/blob/maste
 
 Even though this customed model doesn't run for at least 25000 kimgs, it did give us some prompt as it generate images:
 
-![grid](./Interpolation-of-StyleGan2/out/grid.png)
+![grid](../master/out/grid.png)
 
 It is clearly to see this mode collapses for repeatly generating output that looks real. To some extent, this can be explained by the very small dataset which might have an effect on the latent space. And this also shows up in the latent space exploration:
 
