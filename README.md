@@ -17,11 +17,15 @@ Ref: https://colab.research.google.com/github/dvschultz/ml-art-colabs/blob/maste
 
 Even though this customed model doesn't run for at least 25000 kimgs, it did give us some prompt as it generate images:
 
-![grid](./master/out/grid.png)
+![grid](../main/out/grid.png)
 
 It is clearly to see this mode collapses for repeatly generating output that looks real. To some extent, this can be explained by the very small dataset which might have an effect on the latent space. And this also shows up in the latent space exploration:
 
-<video src="/Users/huyihuan/GITHUB/Generate-3D-images/out/result.mp4"></video>
+
+https://user-images.githubusercontent.com/64958984/174922092-e63aa94d-c721-4339-ae56-c6630cf21326.mp4
+
+
+
 
 The weird Pokemon seems to show up everywhere, which might imply the feature of sharpe claws and ears might be an common characteristc even though nobody wants a Pokemon looks like this.
 
