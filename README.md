@@ -31,4 +31,4 @@ The weird Pokemon seems to show up everywhere, which might imply the feature of 
 
 ### Reflection
 
-I have been thinking about how to solve the problem of mode collabpse of unable to learn a rich feature representation. One possible solution might be WGAN but it might face the same problem with such a limited dataset. Another improvement might be very straightforward: train for more kimgs. This is feasible as long as I have some budgets. In conclusion, GAN is such a charming and applicable architecture as long as it conveges and not collapse. 
+I have been thinking about how to solve the problem of mode collabpse of unable to learn a rich feature representation. One possible solution might be WGAN but it might face the same problem with such a limited dataset. Another improvement might be very straightforward: train for more kimgs. This is feasible as long as I have some budgets. In conclusion, GAN is such a charming and applicable architecture as long as it conveges and not collapse. And it is a struggle to fight with GPU in Oscar for GAN.
